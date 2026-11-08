@@ -1,0 +1,26 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Model files
+*.onnx
+*.pt
+
+# Generated detection outputs
+result_*.jpg
+retail_result.jpg
+retail_detection_result.jpg
+
+# Generated reports and CSV files
+*.csv
+
+# Generated charts
+*.png
+
+# Temporary files
+*.log
+
+# Generated output folder
+outputs/

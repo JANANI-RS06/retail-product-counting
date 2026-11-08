@@ -1,0 +1,9 @@
+Project: AI-Based Retail Product Counting
+
+Model: SKU-110K YOLO11n
+Image Resolution: 436 x 251
+Confidence Threshold: 0.40
+
+Estimated Manual Count: 248
+YOLO Detected Count: 213
+Difference: 35
